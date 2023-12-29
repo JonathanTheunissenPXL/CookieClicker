@@ -1,0 +1,15 @@
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.AssemblyReference.cache
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\MainWindow.g.cs
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\App.g.cs
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker_MarkupCompile.cache
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker_MarkupCompile.lref
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\MainWindow.baml
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.g.resources
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.cache
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\NEOAs\Documents\SCHOOL\WERKPLEKLEREN_1\PROJECT\CODE\Theunissen_Jonathan_c_scherp\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
