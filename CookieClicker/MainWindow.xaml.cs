@@ -27,9 +27,26 @@ namespace CookieClicker
             InitializeComponent();
             UpdateScore();
         }
+
+
         private void UpdateScore()
         {
             SauronCounterLabel.Content = (Math.Floor(_score).ToString() + " RINGS");
+        }
+
+        private void Sauron_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            _score += 1;
+            SauronImage.Width = Column1.ActualWidth;
+            UpdateScore();
+        }
+        private void Sauron_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            SauronImage.Width = SauronImage.ActualWidth * 0.9;
+        }
+        private void SauronImage_MouseEnter(object sender, MouseEventArgs e)
+        {
+            SauronImage.Width = Column1.ActualWidth;
         }
     }
 }

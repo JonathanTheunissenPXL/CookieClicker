@@ -20,7 +20,7 @@
         <Image Name="SauronImage" Source="/assets/Sauron.png"
         Stretch="Uniform" 
         HorizontalAlignment="Center" 
-        VerticalAlignment="Top" Margin="0,120,0,0"/>
+        VerticalAlignment="Top" Margin="0,120,0,0" MouseUp="Sauron_MouseUp" MouseDown="Sauron_MouseDown" MouseEnter="SauronImage_MouseEnter"/>
         <StackPanel Grid.Column="1"></StackPanel>
         <StackPanel Grid.Column="2">
         </StackPanel>
