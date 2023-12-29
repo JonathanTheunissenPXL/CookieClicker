@@ -23,6 +23,17 @@
         VerticalAlignment="Top" Margin="0,120,0,0" MouseUp="Sauron_MouseUp" MouseDown="Sauron_MouseDown" MouseEnter="SauronImage_MouseEnter"/>
         <StackPanel Grid.Column="1"></StackPanel>
         <StackPanel Grid.Column="2">
+            <Button Name="ringButton" Margin="5,0,5,0" IsEnabled="False" Click="ringButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="wargButton" Margin="5,0,5,0" IsEnabled="False" Click="wargButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="orcButton" Margin="5,0,5,0" IsEnabled="False" Click="orcButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="urukhaiButton" Margin="5,0,5,0" IsEnabled="False" Click="urukhaiButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="trollButton" Margin="5,0,5,0" IsEnabled="False" Click="trollButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="mumakilButton" Margin="5,0,5,0" IsEnabled="False" Click="mumakilButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="balrogButton" Margin="5,0,5,0" IsEnabled="False" Click="balrogButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="nazgulButton" Margin="5,0,5,0" IsEnabled="False" Click="nazgulButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="witchkingButton" Margin="5,0,5,0" IsEnabled="False" Click="witchkingButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="sarumanButton" Margin="5,0,5,0" IsEnabled="False" Click="sarumanButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
+            <Button Name="sauronButton" Margin="5,0,5,0" IsEnabled="False" Click="sauronButton_Click" Opacity="0.33" Foreground="Crimson" FontWeight="ExtraBold"></Button>
         </StackPanel>
     </Grid>
 </Window>
